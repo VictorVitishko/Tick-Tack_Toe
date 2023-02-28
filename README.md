@@ -1,2 +1,2 @@
-Play tjis like a regular tick tack toe game
+Play this like a regular tick tack toe game
 Hint: X goes first
