@@ -1,1 +1,2 @@
-# Tick-Tack_Toe
+Play tjis like a regular tick tack toe game
+Hint: X goes first
